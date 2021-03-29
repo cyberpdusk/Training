@@ -1,0 +1,25 @@
+.color-container p{
+    color: red;
+}
+
+.bk-container p{
+    background-color: aqua;
+}
+
+.border1-container p{
+    border: solid;
+    border-width: 5px;
+    border-color: red;
+}
+
+.border2-container p{
+    border: solid;
+    border-width: 1rem;
+    border-color: red;
+}
+
+.border3-container p{
+    border: solid;
+    border-width: 1em;
+    border-color: red;
+}
